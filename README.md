@@ -689,16 +689,6 @@ Contributions are what make the open-source community amazing! Any contributions
 
 ---
 
-## 🙏 Acknowledgments
-
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Stripe](https://stripe.com/)
-- [JWT](https://jwt.io/)
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it helpful!
