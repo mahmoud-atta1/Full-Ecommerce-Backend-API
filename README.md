@@ -157,7 +157,7 @@ Main Routes:
 ## 1️⃣ Clone the repository
 
 ```
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/mahmoud-atta1/full-ecommerce-backend-api>
 ```
 
 ## 2️⃣ Install dependencies
