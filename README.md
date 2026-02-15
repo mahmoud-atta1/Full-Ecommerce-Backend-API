@@ -112,6 +112,7 @@ src/
  ├── routes/
  ├── services/
  ├── utils/
+ ├── validators/
 ```
 
 ---
